@@ -1,8 +1,15 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&lines=Hey+There!+%F0%9F%91%8B;I'm+shiny1005+%F0%9F%A6%8A;Full-Stack+%7C+AI+Automation+%7C+Bot+Developer" alt="Typing SVG" />
+  <div align="center" style="border-radius:100%;overflow: hidden;">
+    <img src="https://avatars.githubusercontent.com/u/31744474" width="150" alt="avatar"/>
+  </div>
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&lines=Hey+There!+%F0%9F%91%8B;I'm+shiny1005;Full-Stack+%7C+AI+Automation+%7C+Bot+Developer" alt="Typing SVG" />
+  
 
   <br/><br/>
+  
 
   <!-- Profile views & trophy -->
   <img src="https://komarev.com/ghpvc/?username=shiny1005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
