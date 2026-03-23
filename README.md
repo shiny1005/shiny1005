@@ -21,9 +21,11 @@
   <br/><br/>
 
   <!-- Tech stack icons -->
-  <h3>🛠️ Tech Stack & Expertise</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️
 
- <table>
+> Tools and technologies that I have worked with and I'm interested in
+
+<table>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -143,6 +145,8 @@
  <tr>
  </tr>
 </table>
+ 
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
   <!-- Main description -->
   <h2>👋 About Me</h2>
@@ -174,5 +178,5 @@
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
   </p>
-
+<p align="center"><img src="./github-contribution-grid-snake.svg"></p>
 
