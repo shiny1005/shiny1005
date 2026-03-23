@@ -13,8 +13,8 @@
   <h2>👋 About Me</h2>
 
   <p>
-    <strong>Full-Stack Developer</strong> & <strong>Automation Engineer</strong> specializing in <strong>AI-powered tools</strong>, <strong>web scraping</strong>, <strong>bot development</strong>, <strong>Chrome extensions</strong>, and <strong>casino/game backend systems</strong>.
-  </p>
+    <strong>Full-Stack Developer</strong> & <strong>Automation Engineer</strong> specializing in <strong>AI-powered tools</strong>, <strong>web scraping</strong>, </p> <p><strong>bot development</strong>, <strong>Chrome extensions</strong>, and <strong>casino/game backend systems</strong>.</p>
+  
 
   <p>
     Turning ideas into production-ready software with clean code, performance, and scalability in mind.<br/>
