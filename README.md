@@ -5,9 +5,7 @@
   </div>
   <br/><br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=19E9EEEE&center=true&vCenter=true&width=1000&lines=Full-Stack+%7C+AI+Automation+%7C+Reverse+Engineering;Ticketmaster+%7C+AIO+%7C+Discord+Bot" alt="Typing SVG" />
-  
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=19E9EEEE&background=20FF3400&center=true&vCenter=true&width=710&lines=Full+stack+%7C+AI+Automation+%7C+ML+Engineer+;Reverse+Engineering+%7C+Ticketmaster+%7C+AIO+%7C+Discord+Bot)](https://git.io/typing-svg)
   <br/><br/>
   <!-- Main description -->
   <h2>👋 About Me</h2>
