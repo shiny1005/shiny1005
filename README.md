@@ -168,7 +168,7 @@
   <a href="https://t.me/lucky_TG007">
     <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-    <a href="https://discord.gg/553258638441971742">
+    <a href="https://discord.com/users/553258638441971742">
     <img src="https://img.shields.io/badge/Discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn" />
   </a> 
 
